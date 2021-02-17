@@ -1,5 +1,9 @@
 # Landing page
 
+#Contents:
+* [Description.](#Description)
+* [Language Used.]()
+* [Dynamic Updating Menu.]()
 ## Description 
 
  A multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
@@ -12,7 +16,7 @@
 
 **JavaScript**
 
-## Dynamic Updating menu
+## Dynamic Updating Menu
 
 * Navigation is built dynamically as an unordered list.
 * when adding a new section in HTML, it will add a new navigation item dynamically in the menu.
