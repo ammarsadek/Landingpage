@@ -11,3 +11,11 @@
 **CSS**
 
 **JavaScript**
+
+## Dynamic Updating menu
+
+* Navigation is built dynamically as an unordered list.
+* active state is been added to the section that is being viewed while scrolling through the page.
+* When clicking an item from the navigation menu, the link scroll to the appropriate section.
+* Active state is added to the navigation items when a section is in the viewport.
+* All features are usable across modern desktop, tablet, and phone browsers.
